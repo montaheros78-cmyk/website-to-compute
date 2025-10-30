@@ -1,0 +1,7 @@
+downloadLink.download = 'صورة_مرحة.png';
+downloadLink.style.display = 'inline-block';
+downloadLink.textContent = 'تحميل الصورة 😎';
+});
+</script>
+</body>
+</html>
